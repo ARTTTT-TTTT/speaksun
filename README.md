@@ -1,5 +1,6 @@
 # ☀️ Speaksun
 
+[![🏆 Winner](https://img.shields.io/badge/🏆%20Winner-Startup%20Thailand%20League%202024-gold)]()
 [![Status: Deprecated](https://img.shields.io/badge/Status-Deprecated-lightgrey)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform: Web](https://img.shields.io/badge/Platform-Web-blue)]()
