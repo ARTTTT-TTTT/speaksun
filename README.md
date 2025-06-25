@@ -9,6 +9,15 @@
 
 ---
 
+## 🏆 Awards & Recognition
+
+- 🥇 **Winner - Startup Thailand League 2024: Pitching Championship**
+  - Represented by **Team #13 Start noww**, Prince of Songkla University
+  - Selected as the **top startup** among more than **250 teams** nationwide
+  - Presented **Speaksun**, a speech therapy support platform for children with articulation disorders, designed to enhance accessibility and engagement through AI-powered tools
+
+---
+
 ## 🛠️ Tech Stack
 
 | Technology   | Icon                                                                                                                  |
